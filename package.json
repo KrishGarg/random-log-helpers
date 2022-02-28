@@ -1,0 +1,9 @@
+{
+  "name": "random-log-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4"
+  }
+}
